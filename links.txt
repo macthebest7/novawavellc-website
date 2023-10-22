@@ -1,0 +1,10 @@
+1: https://comcastmediapay.com
+2: https://comcastmediapay.com/about.php
+3: https://comcastmediapay.com/web.php
+4: https://comcastmediapay.com/seo.php
+5: https://comcastmediapay.com/goole_maps.php
+6: https://comcastmediapay.com/contact.php
+7: https://comcastmediapay.com/refund.php
+8: https://comcastmediapay.com/terms.php
+9: https://comcastmediapay.com/privacy.php
+10: https://comcastmediapay.com/index.html
